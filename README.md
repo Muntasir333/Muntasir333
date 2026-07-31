@@ -87,17 +87,11 @@ Currently, I am:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 💻 Most Used Languages
 
@@ -109,12 +103,8 @@ Currently, I am:
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/your-github/your-github/output/github-contribution-grid-snake.svg" />
-</p>
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 
 ⭐ **"Combining Biology, Technology, and Innovation to create meaningful solutions."**
