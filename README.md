@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Fahim Muntasir 👋
 
-<img src="https://your-banner-image-link-here" width="100%" />
+<img src="https://github.com/Muntasir333/Muntasir333/blob/main/muntasir_banner.jpg?raw=true" width="100%" />
 
 ## 🧬 About Me
 
