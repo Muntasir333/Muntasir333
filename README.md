@@ -90,14 +90,14 @@ Currently, I am:
 ## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muntasir333&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir333&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -105,6 +105,6 @@ Currently, I am:
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntasir333&theme=tokyo-night" />
 
 ⭐ **"Combining Biology, Technology, and Innovation to create meaningful solutions."**
