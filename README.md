@@ -65,7 +65,7 @@ A sports facility reservation platform that allows users to explore sports facil
 
 **🌐 Live Site:** https://sportnest-eosin.vercel.app/
 
-**🛠️ Tech Stack:** Next.js, React, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, Better Auth
+**🛠️ Tech Stack:** Next.js, React, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, Better Auth, Toastify
 
 ---
 
@@ -75,7 +75,7 @@ A full-stack blood donation management system designed to connect donors, volunt
 
 **🌐 Live Site:** https://bloody-rho.vercel.app/
 
-**🛠️ Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Firebase
+**🛠️ Tech Stack:** Next.js React, Tailwind CSS, Node.js, Express.js, HeroUi, MongoDB, JWT, Better Auth
 
 ---
 
