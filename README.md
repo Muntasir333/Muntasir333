@@ -89,15 +89,15 @@ A research project focused on the isolation, characterization, and genomic analy
 
 <p align="left">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/md-fahim-muntasir">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/Muntasir333">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:mdfahimmuntasir333@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
