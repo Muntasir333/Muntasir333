@@ -53,19 +53,37 @@ Currently, I am:
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=vercel" />
-<img src="https://skillicons.dev/icons?i=premiere pro" /> 
 </p>
 
 ---
 
-## 🚀 Featured Activities
+## 🔗 Featured Projects
 
-- 🏥 Developing **Sportnest**, a sports facility reservation platform using Next.js and MongoDB.
-- 🧪 Researching **salt-tolerant bacteria isolation and characterization**.
-- 🧬 Exploring genomic analysis and microbial biotechnology.
-- 🌐 Creating responsive and scalable web applications.
+### 🏟️ Sportnest
+
+A sports facility reservation platform that allows users to explore sports facilities, manage bookings, and make reservations seamlessly.
+
+**🌐 Live Site:** https://sportnest-eosin.vercel.app/
+
+**🛠️ Tech Stack:** Next.js, React, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, Better Auth
 
 ---
+
+### 🩸 Bloody
+
+A full-stack blood donation management system designed to connect donors, volunteers, and administrators through an efficient platform.
+
+**🌐 Live Site:** https://bloody-rho.vercel.app/
+
+**🛠️ Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Firebase
+
+---
+
+### 🧪 Salt-Tolerant Bacteria Research
+
+A research project focused on the isolation, characterization, and genomic analysis of salt-tolerant bacteria collected from agricultural land in Noakhali, Bangladesh.
+
+**🛠️ Research Areas:** Microbiology, Molecular Biology, Genomics, Bioinformatics, Whole Genome Sequencing (WGS)
 
 ## 🌐 Connect With Me
 
