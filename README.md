@@ -37,7 +37,6 @@ Currently, I am:
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=pyrex" />
 </p>
 
 - Microbiology & Molecular Biology
@@ -54,6 +53,7 @@ Currently, I am:
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=premiere pro" /> 
 </p>
 
 ---
